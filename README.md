@@ -1,2 +1,2 @@
-# Leetcode-solutions-C-
+# Leetcode-solutions-CPP
 My C++ Leetcode solutions
